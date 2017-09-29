@@ -6,6 +6,7 @@ This repository contains a collection of industrial control system (ICS) network
 E. Korkmaz, A. Dolgikh, M. Davis, V. Skormin. “Industrial Control Systems Security Testbed”, Annual Symposium on Information Assurance, 2016.
 
 When referring to these network data captures in research works, we ask that you please cite the paper:
+
 E. Korkmaz, M. Davis, A. Dolgikh, V. Skormin, "Detection and Mitigation of Time Delay Injection Attacks on Industrial Control Systems with PLCs," in Mathematical Methods, Models, and Architectures for Computer Network Security, Warsaw, 2017. 
 
 
