@@ -1,5 +1,5 @@
 # BinghamtonU-ICS-Testbed
-Set of ICS Testbed network captures during programming, system startup, and system operation
+Set of ICS Testbed network captures during programming, system startup, and system operation.
 
 This repository contains a collection of industrial control system (ICS) network captures for the ICS testbed at Binghamton University. The various devices and their network connections are portrayed in the image file, BU_ICS_TestbedLayout. The testbed emulates a power generation plant and is dsecribed in detail in the paper:
 
