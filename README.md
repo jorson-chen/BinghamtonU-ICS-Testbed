@@ -9,8 +9,8 @@ E. Korkmaz, M. Davis, A. Dolgikh, V. Skormin, "Detection and Mitigation of Time 
 
 
 The IP addresses for the testbed networked devices are:
-IP Address			|	Device Name
-____________________|__________________________________________________
+IP Address			  |	Device Name
+__________________|__________________________________________________
 192.168.200.245		|	Allen-Bradley ControlLogix 1756 5561 Controller
 192.168.200.241		|	Allen-Bradley FLEX I/O 1794 IE4XOE2
 192.168.200.240		|	Allen-Bradley PowerFlex 1.5HP AC Drive
