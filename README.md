@@ -1,7 +1,7 @@
 # BinghamtonU-ICS-Testbed
 Set of ICS Testbed network captures during programming, system startup, and system operation.
 
-This repository contains a collection of industrial control system (ICS) network captures for the ICS testbed at Binghamton University. The various devices and their network connections are portrayed in the image file, BU_ICS_TestbedLayout. The testbed emulates a power generation plant and is dsecribed in detail in the paper:
+This repository contains a collection of industrial control system (ICS) network captures for the ICS testbed at Binghamton University. The various devices and their network connections are portrayed in the image file, BU_ICS_TestbedLayout. The testbed emulates a power generation plant and is described in detail in the paper:
 
 E. Korkmaz, A. Dolgikh, M. Davis, V. Skormin. “Industrial Control Systems Security Testbed”, Annual Symposium on Information Assurance, 2016.
 
@@ -24,7 +24,7 @@ ____________________|__________________________________________________
 Description of pcap Contents: All files are created by capturing all ControlLogix PLC traffic and RSLinx traffic on the switch. 
 
 DevicePluggedIn_RunSequenceStartStop - 
-This file contains the network capture showing the various devices connecting to the industrial network, followed by starting system operations and then turning off the system.
+This file contains the network capture showing the various devices connecting to the industrial network one by one. Then the  system operations are started and run for a few minutes before the system operations are stopped.
 
 ProgramPLC - 
 This file contains a network capture of the programming station programming the PLC with ladder logic.
