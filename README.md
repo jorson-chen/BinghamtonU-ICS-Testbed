@@ -9,14 +9,14 @@ E. Korkmaz, M. Davis, A. Dolgikh, V. Skormin, "Detection and Mitigation of Time 
 
 
 The IP addresses for the testbed networked devices are:
-IP Address			  |	Device Name
+IP Address			  |	  Device Name
 __________________|__________________________________________________
-192.168.200.245		|	Allen-Bradley ControlLogix 1756 5561 Controller
-192.168.200.241		|	Allen-Bradley FLEX I/O 1794 IE4XOE2
-192.168.200.240		|	Allen-Bradley PowerFlex 1.5HP AC Drive
-192.168.200.145		|	Allen-Bradley PowerFlex 0.5HP AC Drive
-192.168.200.140		|	Allen-Bradley Micro850 PLC 2080-LC50-24QWB
-192.168.200.133		|	Programming Station Computer
+192.168.200.245		|	  Allen-Bradley ControlLogix 1756 5561 Controller
+192.168.200.241		|	  Allen-Bradley FLEX I/O 1794 IE4XOE2
+192.168.200.240		|	  Allen-Bradley PowerFlex 1.5HP AC Drive
+192.168.200.145		|	  Allen-Bradley PowerFlex 0.5HP AC Drive
+192.168.200.140		|	  Allen-Bradley Micro850 PLC 2080-LC50-24QWB
+192.168.200.133		|	  Programming Station Computer
 
 Description of pcap Contents: All files are created by capturing all ControlLogix PLC traffic and RSLinx traffic on the switch. 
 
